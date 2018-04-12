@@ -1,10 +1,11 @@
 \documentclass[]{book}
+\usepackage{longtable,booktabs}
+
 \usepackage{amsthm}
 \usepackage{amsmath}
-\usepackage{tipa}
-\usepackage{amssymb} %for some symbols
-%\usepackage{amsmath}
-\usepackage[]{fontspec}
+%\usepackage{tipa}
+%\usepackage{amssymb} %for some symbols
+%\usepackage[]{fontspec}
 \usepackage{titling}
 \usepackage{titlesec, blindtext, color}
 \definecolor{gray75}{gray}{0.75}
@@ -12,17 +13,12 @@
 \usepackage{polyglossia}
 \setdefaultlanguage[]{spanish}
 
-%\newcommand{\fuenteprincipal}{Adobe Jenson Pro}
-
+% Garamond con *BOLD*
 \usepackage[cmintegrals,cmbraces]{newtxmath}
-\usepackage{ebgaramond-maths}
+%\usepackage[urw-garamond]{mathdesign}
 \usepackage[T1]{fontenc}
 
 
-%\setmainfont[Ligatures={Common,TeX}]{\fuenteprincipal}
-%\setromanfont{\fuenteprincipal}
-
-%\newfontfamily\headingfont[]{\fuenteprincipal}
 \usepackage{setspace} %for line spacing
 \usepackage{fancyhdr}
 
@@ -67,7 +63,6 @@
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
-\usepackage{longtable,booktabs}
 % Fix footnotes in tables (requires footnote package)
 \usepackage{graphicx,grffile}
 \makeatletter
@@ -237,35 +232,26 @@ la Universidad de La Sabana de 1:00 PM a 6:00 PM y contó con la
 participación como ponentes de 7 estudiantes de la Facultad y un
 graduado de esta. La programación fue la siguiente:
 
-\begin{longtable}[]{@{}lll@{}}
-\toprule
-\textbf{Nombre} & \textbf{Horario} & \textbf{Título de la
-ponencia}\tabularnewline
-\midrule
-\endhead
-Cristian Felipe Gonzalez Hernandez & 1:00 1:30 & Relativismo y realismo
-¿por qué aceptamos una ontología?\tabularnewline
-Paula Andrea Sierra Musse & 1:30 2:00 & ¿Es la ley necesariamente
-vaga?\tabularnewline
-Pablo Rivas Robledo & 2:00 2:30 & Una solución a la paradoja de la
-reforma de los mecanismos de reforma de las normas
-constitucionales\tabularnewline
-Descanso & 2:30 2:45 &\tabularnewline
-Lina Margarita Gomez Avila & 2:45 3:15 & La música es una experiencia
-humana no reductible a propiedades físicas\tabularnewline
-Juan Manuel Gaitan Sanchez & 3:15 3:45 & Criterios de identidad-tipo de
-las experiencias: Qualia vs. Objetos intencionales\tabularnewline
-Descanso & 3:45 4:00 &\tabularnewline
-Tatiana Gomez Sanchez & 4:00 4:30 & Sobre el estatus ontológico de la improvisación musical\tabularnewline
-Miguel Angel Prieto Castellanos & 4:30 5:00 &
-\protect\hypertarget{_Hlk508741912}{}{}¿Saber un lenguaje consiste en
-tener ciertas representaciones mentales?\tabularnewline
-Descanso & 5:00 5:15 &\tabularnewline
-Juan Sebastián Cáceres & 5:15 5:45 &
-\protect\hypertarget{_Hlk508743682}{}{}¿Es la emergencia una alternativa
-válida y sustentable al reduccionismo?\tabularnewline
-\bottomrule
-\end{longtable}
+\begin{table}[]
+	\centering
+	\caption{My caption}
+	\label{my-label}
+	\begin{tabular}{@{}lcl@{}}
+		\toprule
+		\textbf{Nombre}                    & \textbf{Horario}        & \textbf{Título de la ponencia}                                                                       \\ \midrule
+		Cristian Felipe González Hernández & \textbf{13:00 - 13:30}  & Relativismo y realismo ¿por qué aceptamos una ontología?                                             \\
+		Paula Andrea Sierra Musse          & \textbf{13:30 - 14:00}  & ¿Es la ley necesariamente vaga?                                                                      \\
+		Pablo Rivas Robledo                & \textbf{14:00 -  14:30} & Una solución a la paradoja de la reforma de los mecanismos de reforma de las normas constitucionales \\
+		Descanso                           & \textbf{14:30 - 14:45}  &                                                                                                      \\
+		Lina Margarita Gómez Ávila         & \textbf{14:45 - 15:15}  & La música es una experiencia humana no reductible a propiedades físicas                              \\
+		Juan Manuel Gaitán Sánchez         & \textbf{14:15 - 14:45}  & Criterios de identidad-tipo de las experiencias: Qualia vs. Objetos intencionales                    \\
+		Descanso                           & \textbf{15:45 - 16:00}  &                                                                                                      \\
+		Tatiana Gómez Sánchez              & \textbf{16:00 -  16:30} & ¿Es posible escuchar de nuevo y en vivo una misma improvisación musical?                             \\
+		Miguel Ángel Prieto Castellanos    & \textbf{16:30 - 17:00}  & ¿Saber un lenguaje consiste en tener ciertas representaciones mentales?                              \\
+		Descanso                           & \textbf{17:00 - 17:15}  &                                                                                                      \\
+		Juan Sebastián Cáceres             & \textbf{17:15 - 17:45}  & ¿Es la emergencia una alternativa válida y sustentable al reduccionismo?                             \\ \bottomrule
+	\end{tabular}
+\end{table}
 
 El evento fue moderado por el profesor Juan Camilo y contó con la
 participación de estudiantes y profesores de la Facultad. Así mismo, el
