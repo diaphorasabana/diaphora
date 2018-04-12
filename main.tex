@@ -14,13 +14,12 @@
 \setdefaultlanguage[]{spanish}
 
 % Garamond con *BOLD*
-\usepackage[cmintegrals,cmbraces]{newtxmath}
-<<<<<<< HEAD
-%\usepackage[urw-garamond]{mathdesign}
-=======
-\usepackage[urw-garamond]{mathdesign}
->>>>>>> 57186a0bb9f9a554003cc16c4e403beaf4605ed1
+
 \usepackage[T1]{fontenc}
+%\newcommand{\fuenteprincipal}{Cormorant}
+\setmainfont[Path = fonts/, BoldFont={Cormorant-bold.ttf}, ItalicFont={Cormorant-italic.ttf},]{Cormorant-Regular.ttf}
+%\setromanfont{Cormorant}
+%\newfontfamily\headingfont[]{Cormorant}
 
 
 \usepackage{setspace} %for line spacing
@@ -56,10 +55,6 @@
 \clubpenalty=10000
 \widowpenalty=10000
 
-\fancyhead{} % clear all header fields
-\fancyfoot{} % clear all footer fields
-\fancyhead[C]{ \footnotesize Diáphora}
-\fancyfoot[C]{\small \thepage}
 
 \usepackage[inner=4cm,top=3cm,outer=2.8cm, bottom=3cm]{geometry}
 \usepackage[unicode=true]{hyperref}
@@ -104,6 +99,10 @@
 \setlength{\parindent}{2em} 
 
 
+\fancyhead{} % clear all header fields
+\fancyfoot{} % clear all footer fields
+\fancyhead[C]{ \footnotesize Diáphora}
+\fancyfoot[C]{\small \thepage}
 \begin{document}
 \title{Diáphora}
 \author{Revista de Estudiantes de Filosofía de la Universidad de la
@@ -275,7 +274,7 @@ Chía, 13 de marzo de 2018
 \end{flushright}
 
 \chapter{\texorpdfstring{\textbf{Presentación de los
-textos.}}{Presentación de los textos.}}\label{presentaciuxf3n-de-los-textos.}
+textos}}{Presentación de los textos}}\label{presentaciuxf3n-de-los-textos.}
 
 Los textos que componen este volumen se presentan en el mismo orden que
 fueron sustentados el 3 de noviembre de 2017. A continuación, se
@@ -2240,7 +2239,7 @@ sentido es la \emph{misma\textsubscript{2}} obra --la misma
 improvisación--, y en otro sentido no es la
 \emph{misma\textsubscript{1}} obra.
 
-\section{Conclusión -- Ontología musical}
+\section*{Conclusión -- Ontología musical}
 
 Así, la respuesta a la pregunta es que hay un sentido
 (\emph{mismo\textsubscript{2}}) en el que sí es posibles escuchar de
