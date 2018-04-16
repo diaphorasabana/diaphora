@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  12 APR 2018 14:48
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  16 APR 2018 08:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -772,24 +772,24 @@ Package: parskip 2001/04/09 non-zero parskip adjustments
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 106.
-LaTeX Font Info:    ... okay on input line 106.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
+LaTeX Font Info:    ... okay on input line 109.
 .................................................
 . fontspec info: "setup-math"
 . 
@@ -797,64 +797,64 @@ LaTeX Font Info:    ... okay on input line 106.
 .................................................
 \symlegacymaths=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 106.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 106.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 106.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 106.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 106.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 106.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 106.
-LaTeX Font Info:    Redeclaring math accent \check on input line 106.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 106.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 106.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 106.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 106.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 106.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 109.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 109.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 109.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 109.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 109.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 109.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 109.
+LaTeX Font Info:    Redeclaring math accent \check on input line 109.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 109.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 109.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 109.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 109.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 109.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 106.
+(Font)              `operators' in the math version `normal' on input line 109.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/Cormorant-Regular.ttf(0)/m/n on inpu
-t line 106.
+t line 109.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 106.
+(Font)              `operators' in the math version `bold' on input line 109.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/Cormorant-Regular.ttf(0)/m/n on inp
-ut line 106.
+ut line 109.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/Cormorant-Regular.ttf(0)/m/n --> TU/Cormorant-Regula
-r.ttf(0)/m/n on input line 106.
+r.ttf(0)/m/n on input line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/Cormorant-Regular.ttf(0)/m/it on in
-put line 106.
+put line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/Cormorant-Regular.ttf(0)/bx/n on in
-put line 106.
+put line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 106.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 106.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 109.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/Cormorant-Regular.ttf(0)/m/n --> TU/Cormorant-Regula
-r.ttf(0)/bx/n on input line 106.
+r.ttf(0)/bx/n on input line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/Cormorant-Regular.ttf(0)/bx/it on 
-input line 106.
+input line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 106.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 109.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 106.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 109.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -890,7 +890,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box50
-Package hyperref Info: Link coloring OFF on input line 106.
+Package hyperref Info: Link coloring OFF on input line 109.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
@@ -899,9 +899,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count190
 )
-LaTeX Info: Redefining \ref on input line 106.
-LaTeX Info: Redefining \pageref on input line 106.
-LaTeX Info: Redefining \nameref on input line 106.
+LaTeX Info: Redefining \ref on input line 109.
+LaTeX Info: Redefining \pageref on input line 109.
+LaTeX Info: Redefining \nameref on input line 109.
 
 (./main.out) (./main.out)
 \@outlinefile=\write3
@@ -912,12 +912,7 @@ LaTeX Info: Redefining \nameref on input line 106.
 
 ]
 File: media/image1.png Graphic file (type QTm)
- <use  "media/image1.png" >
-LaTeX Font Info:    Font shape `TU/Cormorant-Regular.ttf(0)/m/sl' in size <10> 
-not available
-(Font)              Font shape `TU/Cormorant-Regular.ttf(0)/m/it' tried instead
- on input line 166.
- [2] (./main.toc)
+ <use  "media/image1.png" > [2] (./main.toc)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -931,17 +926,12 @@ Capítulo 1.
 [5]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 238.
+               Default added (so using `tbp') on input line 243.
 
 
-Overfull \hbox (186.53375pt too wide) in paragraph at lines 240--255
+Overfull \hbox (3.05379pt too wide) in paragraph at lines 245--260
  [][] 
  []
-
-
-LaTeX Font Warning: Font shape `TU/Cormorant-Regular.ttf(0)/bx/sl' undefined
-(Font)              using `TU/Cormorant-Regular.ttf(0)/bx/n' instead on input l
-ine 274.
 
 [6]
 Capítulo 2.
@@ -958,7 +948,7 @@ Capítulo 3.
 
 LaTeX Font Warning: Font shape `TU/Cormorant-Regular.ttf(0)/bx/it' undefined
 (Font)              using `TU/Cormorant-Regular.ttf(0)/bx/n' instead on input l
-ine 406.
+ine 411.
 
 [11] [12] [13] [14] [15] [16]
 Capítulo 4.
@@ -968,35 +958,7 @@ Capítulo 4.
 
 ]
 Capítulo 5.
-[23]
-Overfull \hbox (212.45137pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 24 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 5.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 UNA SOLUCIÓN A LA PARADOJA DE L
-A REFORMA DE LOS MECANISMOS DE REFORMA DE LAS NORMAS CONSTITUCIONALES
- []
-
-[24] [25]
-Overfull \hbox (212.59137pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 26 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 5.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 UNA SOLUCIÓN A LA PARADOJA DE L
-A REFORMA DE LOS MECANISMOS DE REFORMA DE LAS NORMAS CONSTITUCIONALES
- []
-
-[26] [27]
-Overfull \hbox (212.83138pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 28 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 5.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 UNA SOLUCIÓN A LA PARADOJA DE L
-A REFORMA DE LOS MECANISMOS DE REFORMA DE LAS NORMAS CONSTITUCIONALES
- []
-
-[28] [29]
-Overfull \hbox (212.58138pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 30 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 5.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 UNA SOLUCIÓN A LA PARADOJA DE L
-A REFORMA DE LOS MECANISMOS DE REFORMA DE LAS NORMAS CONSTITUCIONALES
- []
-
-[30
+[23] [24] [25] [26] [27] [28] [29] [30
 
 ]
 Capítulo 6.
@@ -1005,51 +967,18 @@ File: media/image2.png Graphic file (type QTm)
 Underfull \vbox (badness 7595) has occurred while \output is active []
 
  [31]
-Overfull \hbox (18.8576pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 32 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 6.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 LA RIQUEZA DE LA EXPERIENCIA AR
-TÍSTICA: CRÍTICA AL PROYECTO FISICALISTA
- []
-
 [32] [33]
 Underfull \vbox (badness 5970) has occurred while \output is active []
 
-
-Overfull \hbox (19.3476pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 34 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 6.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 LA RIQUEZA DE LA EXPERIENCIA AR
-TÍSTICA: CRÍTICA AL PROYECTO FISICALISTA
- []
-
-[34]
+ [34]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
-Overfull \hbox (19.4876pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 36 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 6.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 LA RIQUEZA DE LA EXPERIENCIA AR
-TÍSTICA: CRÍTICA AL PROYECTO FISICALISTA
- []
-
 [36]
 Capítulo 7.
 [37
 
-]
-Overfull \hbox (24.38762pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 38 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 7.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 OBJETOS INTENSIONALES COMO CRIT
-ERIOS DE IDENTIDAD DE LAS EXPERIENCIAS.
- []
-
-[38] [39]
-Overfull \hbox (24.88762pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 40 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 7.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 OBJETOS INTENSIONALES COMO CRIT
-ERIOS DE IDENTIDAD DE LAS EXPERIENCIAS.
- []
-
-[40]
+] [38] [39] [40]
 Capítulo 8.
 [41
 
@@ -1057,37 +986,17 @@ Capítulo 8.
 
 ]
 Capítulo 9.
-[47]
-Overfull \hbox (46.88603pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 48 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 9.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 TENGO EN MENTE LO QUE USTED TIE
-NE EN MENTE: ¿SIGNIFICADO O REPRESENTACIÓN?
- []
-
-[48]
+[47] [48]
 Underfull \vbox (badness 1173) has occurred while \output is active []
 
  [49]
-Overfull \hbox (46.34604pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 50 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 9.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 TENGO EN MENTE LO QUE USTED TIE
-NE EN MENTE: ¿SIGNIFICADO O REPRESENTACIÓN?
- []
-
-[50] [51]
-Overfull \hbox (45.59604pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 52 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 9.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 TENGO EN MENTE LO QUE USTED TIE
-NE EN MENTE: ¿SIGNIFICADO O REPRESENTACIÓN?
- []
-
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 2713--2714
+[50] [51] [52]
+Underfull \hbox (badness 10000) in paragraph at lines 2718--2719
 
  []
 
 
-Overfull \hbox (98.35625pt too wide) in paragraph at lines 2734--2737
+Overfull \hbox (98.35625pt too wide) in paragraph at lines 2739--2742
 []\TU/Cormorant-Regular.ttf(0)/m/n/10 Pitt, D. (2017) Mental Representation. \T
 U/Cormorant-Regular.ttf(0)/m/it/10 The Stanford Encyclopedia of Philosophy. \TU
 /Cormorant-Regular.ttf(0)/m/n/10 Tomado de: https://plato.stanford.edu/entries/
@@ -1095,67 +1004,26 @@ mental-
  []
 
 [53]
-Underfull \hbox (badness 5756) in paragraph at lines 2747--2750
+Underfull \hbox (badness 5756) in paragraph at lines 2752--2755
 []\TU/Cormorant-Regular.ttf(0)/m/n/10 Wayne, D. (2014) Implicature. The Stanfor
 d Encyclopedia of Philosophy. Tomado de: []$[][][][][] []
- []
-
-
-Overfull \hbox (46.08604pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 54 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 9.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 TENGO EN MENTE LO QUE USTED TIE
-NE EN MENTE: ¿SIGNIFICADO O REPRESENTACIÓN?
  []
 
 [54]
 Capítulo 10.
 [55
 
-]
-Overfull \hbox (177.71759pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 56 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 10.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 EMERGENCIA, REDUCCIONISMO Y CA
-USALIDAD DESCENDENTE: ¿PODEMOS PENSAR CÓMO FUNCIONA LA CIENCIA?
- []
-
-[56] [57]
-Overfull \hbox (177.95758pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 58 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 10.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 EMERGENCIA, REDUCCIONISMO Y CA
-USALIDAD DESCENDENTE: ¿PODEMOS PENSAR CÓMO FUNCIONA LA CIENCIA?
- []
-
-[58] [59]
-Overfull \hbox (178.39758pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 60 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 10.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 EMERGENCIA, REDUCCIONISMO Y CA
-USALIDAD DESCENDENTE: ¿PODEMOS PENSAR CÓMO FUNCIONA LA CIENCIA?
- []
-
-[60] [61]
+] [56] [57] [58] [59] [60] [61]
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
-
-Overfull \hbox (177.64758pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 62 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 10.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 EMERGENCIA, REDUCCIONISMO Y CA
-USALIDAD DESCENDENTE: ¿PODEMOS PENSAR CÓMO FUNCIONA LA CIENCIA?
- []
-
-[62] [63]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3337.
-
-Overfull \hbox (178.13759pt too wide) has occurred while \output is active
-\TU/Cormorant-Regular.ttf(0)/m/n/10 64 \TU/Cormorant-Regular.ttf(0)/m/it/10 CAP
-ÍTULO 10.  \TU/Cormorant-Regular.ttf(0)/bx/it/10 EMERGENCIA, REDUCCIONISMO Y CA
-USALIDAD DESCENDENTE: ¿PODEMOS PENSAR CÓMO FUNCIONA LA CIENCIA?
- []
-
-[64]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3337.
+ [62]
+[63]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3342.
+ [64]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3342.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3337.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3337.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 3342.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 3342.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -1166,12 +1034,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 ### semi simple group (level 1) entered at line 53 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 19693 strings out of 493005
- 363837 string characters out of 6134596
- 478077 words of memory out of 5000000
- 23485 multiletter control sequences out of 15000+600000
- 12175 words of font info for 57 fonts, out of 8000000 for 9000
+ 19691 strings out of 493005
+ 363832 string characters out of 6134596
+ 478036 words of memory out of 5000000
+ 23482 multiletter control sequences out of 15000+600000
+ 12183 words of font info for 58 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 41i,8n,66p,10418b,8731s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,66p,10418b,8745s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (64 pages).
