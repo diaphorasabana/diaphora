@@ -1,0 +1,406 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.8 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \sortlist[entry]{apa/global/}
+    \entry{Aristoteles1994}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=8d4a39cc0631ad0afeb3c94c8090287d}{%
+           family={Aristóteles},
+           familyi={A\bibinitperiod}}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=607473fc8a2bbc989d62a3aa7cddb961}{%
+           family={Calvo\bibnamedelima Martínes},
+           familyi={C\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Tomás},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Gredos}%
+      }
+      \strng{namehash}{8d4a39cc0631ad0afeb3c94c8090287d}
+      \strng{fullhash}{8d4a39cc0631ad0afeb3c94c8090287d}
+      \strng{authornamehash}{8d4a39cc0631ad0afeb3c94c8090287d}
+      \strng{authorfullhash}{8d4a39cc0631ad0afeb3c94c8090287d}
+      \strng{translatornamehash}{607473fc8a2bbc989d62a3aa7cddb961}
+      \strng{translatorfullhash}{607473fc8a2bbc989d62a3aa7cddb961}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{84-249-1666-2}
+      \field{title}{Metafísica}
+      \field{year}{1994}
+    \endentry
+    \entry{Canamares2005}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=af79c98caaf7856ebc84f8224a940e55}{%
+           family={Cañamares},
+           familyi={C\bibinitperiod},
+           given={Ignacio\bibnamedelima Ávila},
+           giveni={I\bibinitperiod\bibinitdelim Á\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Univ. Nacional de Colombia}%
+      }
+      \strng{namehash}{af79c98caaf7856ebc84f8224a940e55}
+      \strng{fullhash}{af79c98caaf7856ebc84f8224a940e55}
+      \strng{authornamehash}{af79c98caaf7856ebc84f8224a940e55}
+      \strng{authorfullhash}{af79c98caaf7856ebc84f8224a940e55}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Relativismo y racionalidad}
+      \field{title}{Realismo, esencialismo y extensionalismo}
+      \field{year}{2005}
+      \field{pages}{67\bibrangedash 95}
+      \range{pages}{29}
+    \endentry
+    \entry{Putnam2005}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=38ee782b607fde17380ec448bf0084ef}{%
+           family={Putnam},
+           familyi={P\bibinitperiod},
+           given={Hilary},
+           giveni={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=8e33919dbf9614d71cb8e2dc6e50889b}{%
+           family={Valdés\bibnamedelima Villanueva},
+           familyi={V\bibinitperiod\bibinitdelim V\bibinitperiod},
+           given={Luis\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Tecnos}%
+      }
+      \strng{namehash}{38ee782b607fde17380ec448bf0084ef}
+      \strng{fullhash}{38ee782b607fde17380ec448bf0084ef}
+      \strng{authornamehash}{38ee782b607fde17380ec448bf0084ef}
+      \strng{authorfullhash}{38ee782b607fde17380ec448bf0084ef}
+      \strng{editornamehash}{8e33919dbf9614d71cb8e2dc6e50889b}
+      \strng{editorfullhash}{8e33919dbf9614d71cb8e2dc6e50889b}
+      \field{sortinit}{P}
+      \field{sortinithash}{24100cef455d7974167575052c29146e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La búsqueda del significado}
+      \field{title}{Significado y referencia}
+      \field{year}{2005}
+      \field{pages}{152\bibrangedash 164}
+      \range{pages}{13}
+    \endentry
+    \entry{Quine1968}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4f625d2b3b5531c0044d86293f610954}{%
+           family={Quine},
+           familyi={Q\bibinitperiod},
+           given={W.\bibnamedelimi V.},
+           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Barcelona}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Labor}%
+      }
+      \strng{namehash}{4f625d2b3b5531c0044d86293f610954}
+      \strng{fullhash}{4f625d2b3b5531c0044d86293f610954}
+      \strng{authornamehash}{4f625d2b3b5531c0044d86293f610954}
+      \strng{authorfullhash}{4f625d2b3b5531c0044d86293f610954}
+      \field{sortinit}{Q}
+      \field{sortinithash}{605f5784956f0b01c606746ceb816bf5}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Palabra y Objeto}
+      \field{year}{1968}
+    \endentry
+    \entry{Quine1985}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4f625d2b3b5531c0044d86293f610954}{%
+           family={Quine},
+           familyi={Q\bibinitperiod},
+           given={W.\bibnamedelimi V.},
+           giveni={W\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f625d2b3b5531c0044d86293f610954}
+      \strng{fullhash}{4f625d2b3b5531c0044d86293f610954}
+      \strng{authornamehash}{4f625d2b3b5531c0044d86293f610954}
+      \strng{authorfullhash}{4f625d2b3b5531c0044d86293f610954}
+      \field{sortinit}{Q}
+      \field{sortinithash}{605f5784956f0b01c606746ceb816bf5}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Orbis}
+      \field{title}{Acerca de lo que hay}
+      \field{year}{1985}
+      \field{pages}{25\bibrangedash 47}
+      \range{pages}{23}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{2}
+  \sortlist[entry]{apa/global/}
+    \entry{Endicott2008}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f893ac6a9ceb9bf004c0f8c7b809314a}{%
+           family={Endicott},
+           familyi={E\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=fa9846bbea9f4eb0e297791f2941fc22}{%
+           family={Bhatia},
+           familyi={B\bibinitperiod},
+           given={V.K.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=4a468e9df1df7d39a6de69ad830758c8}{%
+           family={Engberg},
+           familyi={E\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f9bffe6f1b99ff73b6031dd6e84f9f05}{%
+           family={Gotti},
+           familyi={G\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8dbb2e8f9e679b5be98fc58fd27dbc79}{%
+           family={Heller},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berna}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang Publishing}%
+      }
+      \strng{namehash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{fullhash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{authornamehash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{authorfullhash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{editornamehash}{40adf2c750671a8ff170d0a0ab98a620}
+      \strng{editorfullhash}{4dee396e414381a5513a9f3725316136}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Vagueness in Normative Texts}
+      \field{title}{The Value of Vagueness}
+      \field{year}{2008}
+      \field{pages}{27\bibrangedash 48}
+      \range{pages}{22}
+    \endentry
+    \entry{Endicott2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f893ac6a9ceb9bf004c0f8c7b809314a}{%
+           family={Endicott},
+           familyi={E\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{fullhash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{authornamehash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{authorfullhash}{f893ac6a9ceb9bf004c0f8c7b809314a}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{E}
+      \field{sortinithash}{07bbd5a529b5beaa311df5be05b874bc}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Summer 2016}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/sum2016/entries/law-language/}}
+      \field{title}{Law and Language}
+      \field{year}{2016}
+    \endentry
+    \entry{GreetPoscher2016}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=64ef0d72b70801710ac9a5793819353c}{%
+           family={Greet},
+           familyi={G\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{uniquename=0,hash=82a0cb1f1e341e845c20867a93f0f3cc}{%
+           family={Poscher},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Estados Unidos}%
+      }
+      \list{publisher}{1}{%
+        {Oxford university Press}%
+      }
+      \strng{namehash}{931baef69bff99fd12f9f17a2b3f50ca}
+      \strng{fullhash}{931baef69bff99fd12f9f17a2b3f50ca}
+      \strng{authornamehash}{931baef69bff99fd12f9f17a2b3f50ca}
+      \strng{authorfullhash}{931baef69bff99fd12f9f17a2b3f50ca}
+      \field{sortinit}{G}
+      \field{sortinithash}{618d986594b7198ba52cf8b00d348f3f}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vagueness and Law: Philosophical and Legal Perspectives}
+      \field{year}{2016}
+    \endentry
+    \entry{HydeRaffman2014}{incollection}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=0d98c4c78066d3e55a80c1563823c282}{%
+           family={Hyde},
+           familyi={H\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{uniquename=0,hash=7ecbfa006ca3026bc90f05715e64b586}{%
+           family={Raffman},
+           familyi={R\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{9bbd4ad188ef9676467095b410c5285f}
+      \strng{fullhash}{9bbd4ad188ef9676467095b410c5285f}
+      \strng{authornamehash}{9bbd4ad188ef9676467095b410c5285f}
+      \strng{authorfullhash}{9bbd4ad188ef9676467095b410c5285f}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Winter 2014}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/sum2018/entries/sorites-paradox/}}
+      \field{title}{Sorites Paradox}
+      \field{year}{2014}
+    \endentry
+    \entry{Russell1923}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c58c42b6f7e7e1f78dbbdc65ed8e5384}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Bertrand},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{fullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authornamehash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \strng{authorfullhash}{c58c42b6f7e7e1f78dbbdc65ed8e5384}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Australasian Journal of Philosophy}
+      \field{number}{2}
+      \field{title}{Vagueness}
+      \field{volume}{1}
+      \field{year}{1923}
+      \field{pages}{84\bibrangedash 92}
+      \range{pages}{9}
+    \endentry
+    \entry{Sorensen2016}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=69177d6bc1d73820b57774f37cce591b}{%
+           family={Sorensen},
+           familyi={S\bibinitperiod},
+           given={Roy},
+           giveni={R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{69177d6bc1d73820b57774f37cce591b}
+      \strng{fullhash}{69177d6bc1d73820b57774f37cce591b}
+      \strng{authornamehash}{69177d6bc1d73820b57774f37cce591b}
+      \strng{authorfullhash}{69177d6bc1d73820b57774f37cce591b}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Winter 2016}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/win2016/entries/vagueness/}}
+      \field{title}{Vagueness}
+      \field{year}{2016}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

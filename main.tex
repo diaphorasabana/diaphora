@@ -11,9 +11,12 @@
 \definecolor{gray75}{gray}{0.75}
 \newcommand{\hsp}{\hspace{20pt}}
 \usepackage{polyglossia}
-\setdefaultlanguage[]{spanish}
+\usepackage[spanish]{babel}
+%\setdefaultlanguage[]{spanish}
 
-% Garamond con *BOLD*
+% +---------------+
+% |   Cormorant   |
+% +---------------+
 
 \usepackage[T1]{fontenc}
 %\newcommand{\fuenteprincipal}{Cormorant}
@@ -54,6 +57,18 @@
 
 \clubpenalty=10000
 \widowpenalty=10000
+
+
+% +------------------------------+
+% |   Per chapter bibliography   |
+% +------------------------------+
+
+% \usepackage{biblatex}
+\usepackage[backend=biber,style=apa,language=spanish]{biblatex}
+\usepackage{csquotes}
+\DeclareLanguageMapping{spanish}{spanish-apa}
+\addbibresource{bibliografia-No1.bib}
+
 
 
 \usepackage[inner=4cm,top=3cm,outer=2.8cm, bottom=3cm]{geometry}
@@ -402,6 +417,10 @@ en la realización de este proyecto.
 Chía, 13 de marzo de 2018
 \end{flushright}
 
+
+
+
+\begin{refsection}
 \chapter{\texorpdfstring{\textbf{Relativismo y esencialismo, ?`por qué
 aceptamos una
 ontología?}}{Relativismo y esencialismo, ?`por qué aceptamos una ontología?}}\label{relativismo-y-esencialismo-por-quuxe9-aceptamos-una-ontologuxeda}
@@ -729,6 +748,20 @@ posibilidad de postular un saber que intente salir de la pregunta
 escéptica ofreciendo una respuesta que haga cada vez más difícil
 postularla.
 
+\nocite{Aristoteles1994}
+\nocite{Canamares2005}
+\nocite{Putnam2005}
+\nocite{Quine1968}
+\nocite{Quine1985}
+
+\printbibliography
+
+\end{refsection}
+
+
+
+
+\begin{refsection}
 \chapter{\texorpdfstring{\textbf{?`Es la ley necesariamente
 vaga?}}{?`Es la ley necesariamente vaga?}}\label{es-la-ley-necesariamente-vaga}
 
@@ -1018,6 +1051,20 @@ Philosophy 1} (2), 84--92
 Sorensen, Roy, "Vagueness", \emph{The Stanford Encyclopedia of
 Philosophy~}(Winter 2016 Edition), Edward N. Zalta (ed.), URL =
 \textless{}https://plato.stanford.edu/archives/win2016/entries/vagueness/\textgreater{}.
+
+\nocite{Endicott2008}
+\nocite{Endicott2016}
+\nocite{HydeRaffman2014}
+\nocite{GreetPoscher2016}
+\nocite{Russell1923}
+\nocite{Sorensen2016}
+
+\printbibliography
+\end{refsection}
+
+
+
+
 
 \chapter{\texorpdfstring{\textbf{Una solución a la paradoja de la
 reforma de los mecanismos de reforma de las normas
