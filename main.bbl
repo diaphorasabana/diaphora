@@ -622,5 +622,325 @@
     \endentry
   \endsortlist
 \endrefsection
+
+\refsection{4}
+  \sortlist[entry]{apa/global/}
+    \entry{BarriosRuiz2014}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=170686cf1cd0bc9d884560bf62b7036c}{%
+           family={Barrios\bibnamedelima García},
+           familyi={B\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={G.\bibnamedelimi G.},
+           giveni={G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{uniquename=0,hash=9dfe18fba8db734b6e0d591bc6f5a459}{%
+           family={Ruiz\bibnamedelima Llaven},
+           familyi={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={C.\bibnamedelimi E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chiapas}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Autónoma de Chiapas}%
+      }
+      \strng{namehash}{8406b128cabcb943ee75ad9e1d006b7c}
+      \strng{fullhash}{8406b128cabcb943ee75ad9e1d006b7c}
+      \strng{authornamehash}{8406b128cabcb943ee75ad9e1d006b7c}
+      \strng{authorfullhash}{8406b128cabcb943ee75ad9e1d006b7c}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quehacer Científico en Chiapas}
+      \field{title}{El paisaje sonoro y sus elementos}
+      \field{year}{2014}
+      \field{pages}{57\bibrangedash 61}
+      \range{pages}{5}
+    \endentry
+    \entry{Dennett2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6579de477893f49f21fdf34e226e817b}{%
+           family={Dennett},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f06bd9b892e00f96cf068a0f3bc67fa}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c8e7b0d9f13823d0da05e5554879d7}{%
+           family={Hansberg},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{6579de477893f49f21fdf34e226e817b}
+      \strng{fullhash}{6579de477893f49f21fdf34e226e817b}
+      \strng{authornamehash}{6579de477893f49f21fdf34e226e817b}
+      \strng{authorfullhash}{6579de477893f49f21fdf34e226e817b}
+      \strng{editornamehash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \strng{editorfullhash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{title}{Quinear los qualia}
+      \field{year}{2003}
+      \field{pages}{213\bibrangedash 262}
+      \range{pages}{50}
+    \endentry
+    \entry{Jackson2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=4d756c1263f2a791ae7813eba0d071f5}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={F},
+           giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f06bd9b892e00f96cf068a0f3bc67fa}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c8e7b0d9f13823d0da05e5554879d7}{%
+           family={Hansberg},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{4d756c1263f2a791ae7813eba0d071f5}
+      \strng{fullhash}{4d756c1263f2a791ae7813eba0d071f5}
+      \strng{authornamehash}{4d756c1263f2a791ae7813eba0d071f5}
+      \strng{authorfullhash}{4d756c1263f2a791ae7813eba0d071f5}
+      \strng{editornamehash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \strng{editorfullhash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{title}{Lo que María no sabía}
+      \field{year}{2003}
+      \field{pages}{111\bibrangedash 118}
+      \range{pages}{8}
+    \endentry
+    \entry{Juan1999}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1d7bda73ff42c2dd43ec8a08a61390cb}{%
+           family={{Juan Pablo II}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {La Santa Sede}%
+      }
+      \strng{namehash}{1d7bda73ff42c2dd43ec8a08a61390cb}
+      \strng{fullhash}{1d7bda73ff42c2dd43ec8a08a61390cb}
+      \strng{authornamehash}{1d7bda73ff42c2dd43ec8a08a61390cb}
+      \strng{authorfullhash}{1d7bda73ff42c2dd43ec8a08a61390cb}
+      \field{sortinit}{J}
+      \field{sortinithash}{c86bd6cced82a15683b396c2169909ef}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Obtenido de: \url{http://w2.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_23041999_artists.html#_ftnref25}}
+      \field{title}{Carta del Santo Padre Juan Pablo II a los artistas}
+      \field{year}{1999}
+    \endentry
+    \entry{Lewis2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=95f2fcc4284d0c52413c4b9f4c5518c9}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f06bd9b892e00f96cf068a0f3bc67fa}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c8e7b0d9f13823d0da05e5554879d7}{%
+           family={Hansberg},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{95f2fcc4284d0c52413c4b9f4c5518c9}
+      \strng{fullhash}{95f2fcc4284d0c52413c4b9f4c5518c9}
+      \strng{authornamehash}{95f2fcc4284d0c52413c4b9f4c5518c9}
+      \strng{authorfullhash}{95f2fcc4284d0c52413c4b9f4c5518c9}
+      \strng{editornamehash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \strng{editorfullhash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{title}{Lo que enseña la experiencia}
+      \field{year}{2003}
+      \field{pages}{119\bibrangedash 153}
+      \range{pages}{35}
+    \endentry
+    \entry{Murray1979}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=70f203b008876d4ba847812e2260f814}{%
+           family={Murray\bibnamedelima Schafer},
+           familyi={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {UNESCO}%
+      }
+      \strng{namehash}{70f203b008876d4ba847812e2260f814}
+      \strng{fullhash}{70f203b008876d4ba847812e2260f814}
+      \strng{authornamehash}{70f203b008876d4ba847812e2260f814}
+      \strng{authorfullhash}{70f203b008876d4ba847812e2260f814}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{El Correo}
+      \field{title}{El mundo del sonido. Los sonidos del mundo}
+      \field{year}{1979}
+      \field{pages}{4\bibrangedash 8}
+      \range{pages}{5}
+    \endentry
+    \entry{Nagel1965}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1e25dfb48354228b81bd77a4e66dfd8b}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{fullhash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{authornamehash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{authorfullhash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophical Review}
+      \field{number}{3}
+      \field{title}{Physicalism}
+      \field{volume}{74}
+      \field{year}{1965}
+      \field{pages}{339\bibrangedash 356}
+      \range{pages}{18}
+    \endentry
+    \entry{Nagel2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1e25dfb48354228b81bd77a4e66dfd8b}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f06bd9b892e00f96cf068a0f3bc67fa}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c8e7b0d9f13823d0da05e5554879d7}{%
+           family={Hansberg},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{fullhash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{authornamehash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{authorfullhash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{editornamehash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \strng{editorfullhash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{title}{¿Cómo es ser un murciélago?}
+      \field{year}{2003}
+      \field{pages}{45\bibrangedash 63}
+      \range{pages}{19}
+    \endentry
+    \entry{RomeraSF}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=2e2b0c11507abd81f88fde9fc2421192}{%
+           family={Romera},
+           familyi={R\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Rialp}%
+      }
+      \strng{namehash}{2e2b0c11507abd81f88fde9fc2421192}
+      \strng{fullhash}{2e2b0c11507abd81f88fde9fc2421192}
+      \strng{authornamehash}{2e2b0c11507abd81f88fde9fc2421192}
+      \strng{authorfullhash}{2e2b0c11507abd81f88fde9fc2421192}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Los escenarios de la nueva Evangelización}
+      \field{title}{Secularización y nueva evangelización}
+      \field{year}{}
+      \field{pages}{155\bibrangedash 190}
+      \range{pages}{36}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 

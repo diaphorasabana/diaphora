@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 21:01
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 21:59
  restricted system commands enabled.
  file:line:error style messages enabled.
 **\input main.tex
@@ -21,7 +21,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.141 seconds
+luaotfload | main : initialization completed in 0.143 seconds
 (./main.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
@@ -1243,7 +1243,27 @@ Package biblatex Info: Automatic encoding selection.
 \openout4 = main.bcf
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl)
+ (./main.bbl
+./main.bbl:770: Illegal parameter number in definition of \NewValue.
+<to be read again> 
+_
+l.770 ...jp-ii_let_23041999_artists.html#_ftnref25}}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./main.bbl:773: Illegal parameter number in definition of \abx@field@howpublish
+ed.
+<to be read again> 
+_
+l.773     \endentry
+                 
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+)
 Package biblatex Info: Reference section=0 on input line 126.
 Package biblatex Info: Reference segment=0 on input line 126.
 
@@ -1375,6 +1395,10 @@ Package biblatex Info: Setting label 'refsection:3' on input line 1070.
 Capítulo 5.
 [23] [24] [25] [26] [27] [28]
 Package biblatex Info: Reference section=0 on input line 1512.
+\blx@maxsegment@4=\count453
+\blx@sectionciteorder@4=\count454
+Package biblatex Info: Reference section=4 on input line 1517.
+Package biblatex Info: Setting label 'refsection:4' on input line 1517.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1383,7 +1407,17 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Capítulo 6.
-<media/image2.png, id=279, pagebox=cropbox, 963.6pt x 722.7pt>
+./main.tex:1530: Illegal parameter number in definition of \abx@field@howpublis
+hed.
+<to be read again> 
+_
+l.1530 ...istoria de la cultura. (\cite{Juan1999}).}
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+<media/image2.png, id=280, pagebox=cropbox, 963.6pt x 722.7pt>
 File: media/image2.png Graphic file (type png)
 <use media/image2.png>
 Package luatex.def Info: media/image2.png  used on input line 1557. on input lin
@@ -1394,56 +1428,118 @@ Package luatex.def Info: Requested size: 275.6875pt x 206.76561pt on input line
 Underfull \vbox (badness 7595) has occurred while \output is active []
 
  [31]
-[32<./media/image2.png>] [33]
+./main.tex:1584: Illegal parameter number in definition of \abx@field@howpublis
+hed.
+<to be read again> 
+_
+l.1584 ...e arte, una obra maestra (\cite{Juan1999})
+                                                  .
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+[32<./media/image2.png>]
+./main.tex:1667: Illegal parameter number in definition of \abx@field@howpublis
+hed.
+<to be read again> 
+_
+l.1667 cosas'' (\cite{Juan1999})
+                              . Cada experiencia artística tiene una manera...
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+[33]
 Underfull \vbox (badness 5970) has occurred while \output is active []
 
  [34]
+./main.tex:1802: Illegal parameter number in definition of \abx@field@howpublis
+hed.
+<to be read again> 
+_
+l.1802 ...r del momento creativo'' (\cite{Juan1999})
+                                                  .
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [35]
 [36]
+./main.tex:1848: Illegal parameter number in definition of \abx@field@howpublis
+hed.
+<to be read again> 
+_
+l.1848 ...ading=subbibliography,title={Referencias}]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./main.tex:1848: Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+_
+l.1848 ...ading=subbibliography,title={Referencias}]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+./main.tex:1848: Illegal parameter number in definition of \Hy@tempa.
+<to be read again> 
+_
+l.1848 ...ading=subbibliography,title={Referencias}]
+                                                  
+You meant to type ## instead of #, right?
+Or maybe a } was forgotten somewhere earlier, and things
+are all screwed up? I'm going to assume that you meant ##.
+
+Package biblatex Info: Reference section=0 on input line 1850.
+[37] [38
+
+]
 Capítulo 7.
-[37
-
-] [38] [39] [40]
+[39] [40] [41] [42]
 Capítulo 8.
-[41
+[43
 
-] [42] [43] [44] [45] [46
+] [44] [45] [46] [47] [48
 
 ]
 Capítulo 9.
-[47] [48]
+[49] [50]
 Underfull \vbox (badness 1173) has occurred while \output is active []
 
- [49]
-[50] [51] [52]
-Underfull \hbox (badness 10000) in paragraph at lines 2760--2761
+ [51]
+[52] [53] [54]
+Underfull \hbox (badness 10000) in paragraph at lines 2770--2771
 
  []
 
-[53]
-Underfull \hbox (badness 5756) in paragraph at lines 2794--2797
+[55]
+Underfull \hbox (badness 5756) in paragraph at lines 2804--2807
 []\TU/Cormorant-Regular.ttf(0)/m/n/10 Way-ne, D. (2014) Im-pli-ca-tu-re. The St
 an-ford Ency-clo-pe-dia of Phi-lo-sophy. To-ma-do de: []$https:
  []
 
-[54]
+[56]
 Capítulo 10.
-[55
+[57
 
-] [56] [57] [58] [59] [60] [61]
+] [58] [59] [60] [61] [62] [63]
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
- [62]
-[63]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3384.
  [64]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3384.
+[65]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3394.
+ [66]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3394.
  (./main.aux
 Language spanish already loaded; id is 4)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3384.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3384.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3394.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3394.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4D961C27F39F2D01244156CBEB9B592C;3690.
 
@@ -1460,16 +1556,16 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 28308 strings out of 494472
+ 28373 strings out of 494472
  100000,1144653 words of node,token memory allocated
- 1060 words of node memory still in use:
-   7 hlist, 2 vlist, 3 rule, 38 glue, 1 kern, 45 attribute, 85 glue_spec, 45 att
-ribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 1:4,2:557,3:87,4:72,5:534,6:6340,7:1180,8:79,9:244,10:47,11:1043
-
- 31501 multiletter control sequences out of 65536+600000
+ 1070 words of node memory still in use:
+   7 hlist, 2 vlist, 3 rule, 38 glue, 1 kern, 46 attribute, 85 glue_spec, 46 att
+ribute_list, 1 write, 3 pdf_action nodes
+   avail lists: 1:4,2:570,3:130,4:78,5:534,6:6340,7:1195,8:117,9:244,10:47,11:10
+43
+ 31555 multiletter control sequences out of 65536+600000
  75 fonts using 16244719 bytes
- 41i,12n,68p,821b,17211s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 41i,12n,68p,821b,17221s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/Cormorant-italic.ttf><./fonts/Cormorant-bold.ttf><./fonts/Cormorant-Reg
 ular.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
@@ -1477,10 +1573,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (64 pages, 451678 bytes).
+Output written on main.pdf (66 pages, 454952 bytes).
 
-PDF statistics: 531 PDF objects out of 1000 (max. 8388607)
- 442 compressed objects within 5 object streams
- 154 named destinations out of 1000 (max. 131072)
+PDF statistics: 562 PDF objects out of 1000 (max. 8388607)
+ 471 compressed objects within 5 object streams
+ 165 named destinations out of 1000 (max. 131072)
  81 words of extra memory for PDF output out of 10000 (max. 100000000)
 
