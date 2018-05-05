@@ -1123,5 +1123,191 @@
     \endentry
   \endsortlist
 \endrefsection
+
+\refsection{6}
+  \sortlist[entry]{apa/global/}
+    \entry{Alperson1984}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0521b1e898c4fc1b6fe72b5d98880b3d}{%
+           family={Alperson},
+           familyi={A\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \strng{fullhash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \strng{authornamehash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \strng{authorfullhash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Aesthetics and Art Criticism}
+      \field{number}{1}
+      \field{title}{On Musical Improvisation}
+      \field{volume}{43}
+      \field{year}{1984}
+      \field{pages}{17\bibrangedash 29}
+      \range{pages}{13}
+    \endentry
+    \entry{Alperson2010}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=0521b1e898c4fc1b6fe72b5d98880b3d}{%
+           family={Alperson},
+           familyi={A\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \strng{fullhash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \strng{authornamehash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \strng{authorfullhash}{0521b1e898c4fc1b6fe72b5d98880b3d}
+      \field{sortinit}{A}
+      \field{sortinithash}{3248043b5fe8d0a34dab5ab6b8d4309b}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Aesthetics and Art Criticism}
+      \field{number}{3}
+      \field{title}{A Topography of Improvisation}
+      \field{volume}{68}
+      \field{year}{2010}
+      \field{pages}{273\bibrangedash 280}
+      \range{pages}{8}
+    \endentry
+    \entry{Bertinetto2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=030e4660ab83786657356b3f5ce54e6f}{%
+           family={Bertinetto},
+           familyi={B\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{030e4660ab83786657356b3f5ce54e6f}
+      \strng{fullhash}{030e4660ab83786657356b3f5ce54e6f}
+      \strng{authornamehash}{030e4660ab83786657356b3f5ce54e6f}
+      \strng{authorfullhash}{030e4660ab83786657356b3f5ce54e6f}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{0210-1602}
+      \field{journaltitle}{Teorema: International Journal of Philosophy}
+      \field{number}{3}
+      \field{title}{Paganini Does Not Repeat. Musical Improvisation and the Type/Token Ontology}
+      \field{volume}{31}
+      \field{year}{2012}
+      \field{pages}{105\bibrangedash 126}
+      \range{pages}{22}
+    \endentry
+    \entry{Brown2000}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1782dda1f4a37549f6577f3446cfbfc7}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Lee\bibnamedelima B.},
+           giveni={L\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley-Blackwell}%
+      }
+      \strng{namehash}{1782dda1f4a37549f6577f3446cfbfc7}
+      \strng{fullhash}{1782dda1f4a37549f6577f3446cfbfc7}
+      \strng{authornamehash}{1782dda1f4a37549f6577f3446cfbfc7}
+      \strng{authorfullhash}{1782dda1f4a37549f6577f3446cfbfc7}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Aesthetics and Art Criticism}
+      \field{number}{3}
+      \field{title}{``Feeling My Way'': Jazz Improvisation and its Vicissitudes--A Plea for Imperfection}
+      \field{volume}{68}
+      \field{year}{2000}
+      \field{pages}{273\bibrangedash 280}
+      \range{pages}{8}
+    \endentry
+    \entry{Kania2017}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1caf0b2f96f5775a478cdb1f5551ffb7}{%
+           family={Kania},
+           familyi={K\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{1caf0b2f96f5775a478cdb1f5551ffb7}
+      \strng{fullhash}{1caf0b2f96f5775a478cdb1f5551ffb7}
+      \strng{authornamehash}{1caf0b2f96f5775a478cdb1f5551ffb7}
+      \strng{authorfullhash}{1caf0b2f96f5775a478cdb1f5551ffb7}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Fall 2017}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/fall2017/entries/music/}}
+      \field{title}{The Philosophy of Music}
+      \field{year}{2017}
+    \endentry
+    \entry{Wetzel2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d0c2dff2691875390a085f5654a09889}{%
+           family={Wetzel},
+           familyi={W\bibinitperiod},
+           given={Linda},
+           giveni={L\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d9b6284b7816d9e586e8af9a253ba08e}{%
+           family={Zalta},
+           familyi={Z\bibinitperiod},
+           given={Edward\bibnamedelima N.},
+           giveni={E\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Metaphysics Research Lab, Stanford University}%
+      }
+      \strng{namehash}{d0c2dff2691875390a085f5654a09889}
+      \strng{fullhash}{d0c2dff2691875390a085f5654a09889}
+      \strng{authornamehash}{d0c2dff2691875390a085f5654a09889}
+      \strng{authorfullhash}{d0c2dff2691875390a085f5654a09889}
+      \strng{editornamehash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \strng{editorfullhash}{d9b6284b7816d9e586e8af9a253ba08e}
+      \field{sortinit}{W}
+      \field{sortinithash}{6d25b3eefe5aa2147d1f339686808918}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Stanford Encyclopedia of Philosophy}
+      \field{edition}{Spring 2014}
+      \field{howpublished}{\url{https://plato.stanford.edu/archives/spr2014/entries/types-tokens/}}
+      \field{title}{Types and Tokens}
+      \field{year}{2014}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 
