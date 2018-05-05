@@ -699,6 +699,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
       \field{title}{Quinear los qualia}
       \field{year}{2003}
       \field{pages}{213\bibrangedash 262}
@@ -743,6 +744,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
       \field{title}{Lo que María no sabía}
       \field{year}{2003}
       \field{pages}{111\bibrangedash 118}
@@ -810,6 +812,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
       \field{title}{Lo que enseña la experiencia}
       \field{year}{2003}
       \field{pages}{119\bibrangedash 153}
@@ -908,6 +911,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
       \field{title}{¿Cómo es ser un murciélago?}
       \field{year}{2003}
       \field{pages}{45\bibrangedash 63}
@@ -939,6 +943,183 @@
       \field{year}{}
       \field{pages}{155\bibrangedash 190}
       \range{pages}{36}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{5}
+  \sortlist[entry]{apa/global/}
+    \entry{Dennett2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6579de477893f49f21fdf34e226e817b}{%
+           family={Dennett},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f06bd9b892e00f96cf068a0f3bc67fa}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c8e7b0d9f13823d0da05e5554879d7}{%
+           family={Hansberg},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{6579de477893f49f21fdf34e226e817b}
+      \strng{fullhash}{6579de477893f49f21fdf34e226e817b}
+      \strng{authornamehash}{6579de477893f49f21fdf34e226e817b}
+      \strng{authorfullhash}{6579de477893f49f21fdf34e226e817b}
+      \strng{editornamehash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \strng{editorfullhash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \field{sortinit}{D}
+      \field{sortinithash}{d10b5413de1f3d197b20897dd0d565bb}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
+      \field{title}{Quinear los qualia}
+      \field{year}{2003}
+      \field{pages}{213\bibrangedash 262}
+      \range{pages}{50}
+    \endentry
+    \entry{Harman2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=f8d19b296bdac23afa459160c41d9677}{%
+           family={Harman},
+           familyi={H\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3580a9346860d92d5df9a9eb2cbe5aac}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           suffix={M.\bibnamedelimi &\bibnamedelima Hansberg},
+           suffixi={M\bibinitperiod\bibinitdelim &\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{f8d19b296bdac23afa459160c41d9677}
+      \strng{fullhash}{f8d19b296bdac23afa459160c41d9677}
+      \strng{authornamehash}{f8d19b296bdac23afa459160c41d9677}
+      \strng{authorfullhash}{f8d19b296bdac23afa459160c41d9677}
+      \strng{editornamehash}{3580a9346860d92d5df9a9eb2cbe5aac}
+      \strng{editorfullhash}{3580a9346860d92d5df9a9eb2cbe5aac}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
+      \field{title}{La cualidad intrínseca de la experiencia}
+      \field{year}{2003}
+      \field{pages}{263\bibrangedash 288}
+      \range{pages}{26}
+    \endentry
+    \entry{Nagel2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=1e25dfb48354228b81bd77a4e66dfd8b}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=9f06bd9b892e00f96cf068a0f3bc67fa}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=93c8e7b0d9f13823d0da05e5554879d7}{%
+           family={Hansberg},
+           familyi={H\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{fullhash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{authornamehash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{authorfullhash}{1e25dfb48354228b81bd77a4e66dfd8b}
+      \strng{editornamehash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \strng{editorfullhash}{dea9ba71d3cb2fa56fe8a7bc99350730}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
+      \field{title}{¿Cómo es ser un murciélago?}
+      \field{year}{2003}
+      \field{pages}{45\bibrangedash 63}
+      \range{pages}{19}
+    \endentry
+    \entry{Shoemaker2003}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c381d9b26d6ca03a26d72ddf516e2318}{%
+           family={Shoemaker},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=7eba9838759766dc8cd1883606134423}{%
+           family={Ezcurdia},
+           familyi={E\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod},
+           suffix={M.and\bibnamedelima Hansberg},
+           suffixi={M\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \list{publisher}{1}{%
+        {UNAM, Instituto de Investigaciones Filosóficas}%
+      }
+      \strng{namehash}{c381d9b26d6ca03a26d72ddf516e2318}
+      \strng{fullhash}{c381d9b26d6ca03a26d72ddf516e2318}
+      \strng{authornamehash}{c381d9b26d6ca03a26d72ddf516e2318}
+      \strng{authorfullhash}{c381d9b26d6ca03a26d72ddf516e2318}
+      \strng{editornamehash}{7eba9838759766dc8cd1883606134423}
+      \strng{editorfullhash}{7eba9838759766dc8cd1883606134423}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La naturaleza de la experiencia}
+      \field{number}{Vol. 1: Sensaciones}
+      \field{title}{Funcionalismo y qualia}
+      \field{year}{2003}
+      \field{pages}{183\bibrangedash 212}
+      \range{pages}{30}
     \endentry
   \endsortlist
 \endrefsection

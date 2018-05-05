@@ -13,11 +13,11 @@
 \contentsline {chapter}{\numberline {5}\textbf {Una solución a la paradoja de la reforma de los mecanismos de reforma de las normas constitucionales}}{23}{chapter.5}
 \defcounter {refsection}{4}\relax 
 \contentsline {chapter}{\numberline {6}\textbf {La riqueza de la experiencia artística: crítica al proyecto fisicalista}}{31}{chapter.6}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{5}\relax 
 \contentsline {chapter}{\numberline {7}\textbf {Objetos intensionales como criterios de identidad de las experiencias.}}{39}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}\textbf {Sobre el estatus ontológico de la improvisación musical}}{43}{chapter.8}
+\contentsline {chapter}{\numberline {8}\textbf {Sobre el estatus ontológico de la improvisación musical}}{45}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {9}\textbf {Tengo en mente lo que usted tiene en mente: ?`Significado o Representación?}}{49}{chapter.9}
+\contentsline {chapter}{\numberline {9}\textbf {Tengo en mente lo que usted tiene en mente: ?`Significado o Representación?}}{51}{chapter.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {10}\textbf {Emergencia, reduccionismo y causalidad descendente: ?`podemos pensar cómo funciona la ciencia?}}{57}{chapter.10}
+\contentsline {chapter}{\numberline {10}\textbf {Emergencia, reduccionismo y causalidad descendente: ?`podemos pensar cómo funciona la ciencia?}}{59}{chapter.10}

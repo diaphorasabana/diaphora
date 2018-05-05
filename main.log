@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 21:59
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 22:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **\input main.tex
@@ -21,7 +21,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.143 seconds
+luaotfload | main : initialization completed in 0.141 seconds
 (./main.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
@@ -1244,20 +1244,20 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl
-./main.bbl:770: Illegal parameter number in definition of \NewValue.
+./main.bbl:772: Illegal parameter number in definition of \NewValue.
 <to be read again> 
 _
-l.770 ...jp-ii_let_23041999_artists.html#_ftnref25}}
+l.772 ...jp-ii_let_23041999_artists.html#_ftnref25}}
                                                   
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-./main.bbl:773: Illegal parameter number in definition of \abx@field@howpublish
+./main.bbl:775: Illegal parameter number in definition of \abx@field@howpublish
 ed.
 <to be read again> 
 _
-l.773     \endentry
+l.775     \endentry
                  
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1497,49 +1497,67 @@ Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
 Package biblatex Info: Reference section=0 on input line 1850.
+\blx@maxsegment@5=\count455
+\blx@sectionciteorder@5=\count456
+Package biblatex Info: Reference section=5 on input line 1855.
+Package biblatex Info: Setting label 'refsection:5' on input line 1855.
 [37] [38
 
 ]
 Capítulo 7.
 [39] [40] [41] [42]
-Capítulo 8.
-[43
+./main.tex:2097: Misplaced alignment tab character &.
+\namepartsuffix ->M.\bibnamedelimi &
+                                    \bibnamedelima Hansberg
+l.2097 ...ading=subbibliography,title={Referencias}]
+                                                  
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
 
-] [44] [45] [46] [47] [48
+Package biblatex Info: Reference section=0 on input line 2099.
+[43] [44
+
+]
+Capítulo 8.
+[45] [46] [47] [48] [49] [50
 
 ]
 Capítulo 9.
-[49] [50]
+[51] [52]
 Underfull \vbox (badness 1173) has occurred while \output is active []
 
- [51]
-[52] [53] [54]
-Underfull \hbox (badness 10000) in paragraph at lines 2770--2771
+ [53]
+[54] [55] [56]
+Underfull \hbox (badness 10000) in paragraph at lines 2785--2786
 
  []
 
-[55]
-Underfull \hbox (badness 5756) in paragraph at lines 2804--2807
+[57]
+Underfull \hbox (badness 5756) in paragraph at lines 2819--2822
 []\TU/Cormorant-Regular.ttf(0)/m/n/10 Way-ne, D. (2014) Im-pli-ca-tu-re. The St
 an-ford Ency-clo-pe-dia of Phi-lo-sophy. To-ma-do de: []$https:
  []
 
-[56]
+[58]
 Capítulo 10.
-[57
+[59
 
-] [58] [59] [60] [61] [62] [63]
+] [60] [61] [62] [63] [64] [65]
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
- [64]
-[65]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3394.
  [66]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3394.
+[67]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3409.
+ [68]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3409.
  (./main.aux
 Language spanish already loaded; id is 4)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3394.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3394.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3409.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3409.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4D961C27F39F2D01244156CBEB9B592C;3690.
 
@@ -1556,16 +1574,16 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 28373 strings out of 494472
+ 28404 strings out of 494472
  100000,1144653 words of node,token memory allocated
  1070 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 38 glue, 1 kern, 46 attribute, 85 glue_spec, 46 att
 ribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 1:4,2:570,3:130,4:78,5:534,6:6340,7:1195,8:117,9:244,10:47,11:10
+   avail lists: 1:4,2:574,3:130,4:81,5:534,6:6340,7:1195,8:117,9:244,10:49,11:10
 43
- 31555 multiletter control sequences out of 65536+600000
+ 31580 multiletter control sequences out of 65536+600000
  75 fonts using 16244719 bytes
- 41i,12n,68p,821b,17221s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 41i,12n,68p,821b,17223s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/Cormorant-italic.ttf><./fonts/Cormorant-bold.ttf><./fonts/Cormorant-Reg
 ular.ttf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
@@ -1573,10 +1591,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (66 pages, 454952 bytes).
+Output written on main.pdf (68 pages, 456506 bytes).
 
-PDF statistics: 562 PDF objects out of 1000 (max. 8388607)
- 471 compressed objects within 5 object streams
- 165 named destinations out of 1000 (max. 131072)
+PDF statistics: 574 PDF objects out of 1000 (max. 8388607)
+ 481 compressed objects within 5 object streams
+ 171 named destinations out of 1000 (max. 131072)
  81 words of extra memory for PDF output out of 10000 (max. 100000000)
 
