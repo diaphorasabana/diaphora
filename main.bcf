@@ -2396,6 +2396,26 @@
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
   </bcf:section>
+  <!-- SECTION 7 -->
+  <bcf:bibdata section="7">
+    <bcf:datasource type="file" datatype="bibtex">bibliografia-No1.bib</bcf:datasource>
+  </bcf:bibdata>
+  <bcf:section number="7">
+    <bcf:citekey order="1">Dummett1993a</bcf:citekey>
+    <bcf:citekey order="2">Dummett1993b</bcf:citekey>
+    <bcf:citekey order="3">Frege1998</bcf:citekey>
+    <bcf:citekey order="4">Grice1989</bcf:citekey>
+    <bcf:citekey order="5">Lycan1999</bcf:citekey>
+    <bcf:citekey order="6">Pitt2017</bcf:citekey>
+    <bcf:citekey order="7">Tomasello2003</bcf:citekey>
+    <bcf:citekey order="8">Travis2006</bcf:citekey>
+    <bcf:citekey order="9">Travis2011</bcf:citekey>
+    <bcf:citekey order="10">Wayne2014</bcf:citekey>
+    <bcf:citekey order="11">Wittgenstein2008</bcf:citekey>
+  </bcf:section>
+  <!-- SECTION 0 (cont.) -->
+  <bcf:section number="0">
+  </bcf:section>
   <bcf:sortlist section="1" name="apa/global/" type="entry" sortscheme="apa" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
     <bcf:sort order="1">
@@ -2587,6 +2607,44 @@
   </bcf:sorting>
   </bcf:sortlist>
   <bcf:sortlist section="6" name="apa/global/" type="entry" sortscheme="apa" sortnamekeyscheme="global" labelprefix="">
+  <bcf:sorting>
+    <bcf:sort order="1">
+      <bcf:sortitem order="1">presort</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="2" final="1">
+      <bcf:sortitem order="1">sortkey</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="3">
+      <bcf:sortitem order="1">sortname</bcf:sortitem>
+      <bcf:sortitem order="2">author</bcf:sortitem>
+      <bcf:sortitem order="3">editor</bcf:sortitem>
+      <bcf:sortitem order="4">translator</bcf:sortitem>
+      <bcf:sortitem order="5">writer</bcf:sortitem>
+      <bcf:sortitem order="6">director</bcf:sortitem>
+      <bcf:sortitem order="7">producer</bcf:sortitem>
+      <bcf:sortitem order="8">execproducer</bcf:sortitem>
+      <bcf:sortitem order="9">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="10">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="4">
+      <bcf:sortitem order="1">pubstate</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="5">
+      <bcf:sortitem order="1">sortyear</bcf:sortitem>
+      <bcf:sortitem order="2">year</bcf:sortitem>
+      <bcf:sortitem order="3">-2000000000</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="6">
+      <bcf:sortitem order="1">sorttitle</bcf:sortitem>
+      <bcf:sortitem order="2">title</bcf:sortitem>
+    </bcf:sort>
+    <bcf:sort order="7">
+      <bcf:sortitem order="1">volume</bcf:sortitem>
+      <bcf:sortitem order="2">0</bcf:sortitem>
+    </bcf:sort>
+  </bcf:sorting>
+  </bcf:sortlist>
+  <bcf:sortlist section="7" name="apa/global/" type="entry" sortscheme="apa" sortnamekeyscheme="global" labelprefix="">
   <bcf:sorting>
     <bcf:sort order="1">
       <bcf:sortitem order="1">presort</bcf:sortitem>

@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 22:29
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 23:11
  restricted system commands enabled.
  file:line:error style messages enabled.
 **\input main.tex
@@ -1529,6 +1529,10 @@ Capítulo 8.
 
 ] [44] [45] [46]
 Package biblatex Info: Reference section=0 on input line 2341.
+\blx@maxsegment@7=\count459
+\blx@sectionciteorder@7=\count460
+Package biblatex Info: Reference section=7 on input line 2345.
+Package biblatex Info: Setting label 'refsection:7' on input line 2345.
  [47] [48
 
 ]
@@ -1537,18 +1541,9 @@ Capítulo 9.
 Underfull \vbox (badness 1173) has occurred while \output is active []
 
  [51]
-[52] [53] [54]
-Underfull \hbox (badness 10000) in paragraph at lines 2759--2760
-
- []
-
-[55]
-Underfull \hbox (badness 5756) in paragraph at lines 2793--2796
-[]\TU/Cormorant-Regular.ttf(0)/m/n/10 Way-ne, D. (2014) Im-pli-ca-tu-re. The St
-an-ford Ency-clo-pe-dia of Phi-lo-sophy. To-ma-do de: []$https:
- []
-
-[56]
+[52] [53] [54] [55]
+Package biblatex Info: Reference section=0 on input line 2773.
+ [56]
 Capítulo 10.
 [57
 
@@ -1557,13 +1552,13 @@ Underfull \vbox (badness 1448) has occurred while \output is active []
 
  [64]
 [65]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3383.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3360.
  [66]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3383.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3360.
  (./main.aux
 Language spanish already loaded; id is 4)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3383.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3383.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3360.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3360.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4D961C27F39F2D01244156CBEB9B592C;3690.
 
@@ -1580,14 +1575,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 28440 strings out of 494472
+ 28499 strings out of 494472
  100000,1144653 words of node,token memory allocated
- 1070 words of node memory still in use:
-   7 hlist, 2 vlist, 3 rule, 38 glue, 1 kern, 46 attribute, 85 glue_spec, 46 att
-ribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 1:4,2:580,3:130,4:86,5:534,6:6340,7:1195,8:118,9:245,10:49,11:10
+ 1060 words of node memory still in use:
+   7 hlist, 2 vlist, 3 rule, 38 glue, 1 kern, 45 attribute, 85 glue_spec, 45 att
+ribute_list, 1 write, 2 pdf_action nodes
+   avail lists: 1:4,2:595,3:131,4:94,5:534,6:6340,7:1195,8:119,9:246,10:49,11:10
 43
- 31612 multiletter control sequences out of 65536+600000
+ 31660 multiletter control sequences out of 65536+600000
  75 fonts using 16244719 bytes
  41i,12n,68p,821b,17223s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/Cormorant-italic.ttf><./fonts/Cormorant-bold.ttf><./fonts/Cormorant-Reg
@@ -1597,10 +1592,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (66 pages, 455712 bytes).
+Output written on main.pdf (66 pages, 456154 bytes).
 
-PDF statistics: 572 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
- 175 named destinations out of 1000 (max. 131072)
+PDF statistics: 580 PDF objects out of 1000 (max. 8388607)
+ 489 compressed objects within 5 object streams
+ 186 named destinations out of 1000 (max. 131072)
  81 words of extra memory for PDF output out of 10000 (max. 100000000)
 

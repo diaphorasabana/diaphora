@@ -1,53 +1,58 @@
-[0] Config.pm:354> INFO - This is Biber 2.7 (beta)
-[0] Config.pm:357> INFO - Logfile is 'main.blg'
-[40] biber:303> INFO - === vie may  4, 2018, 22:29:05
-[57] Biber.pm:360> INFO - Reading 'main.bcf'
-[158] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[159] Biber.pm:836> INFO - Found 5 citekeys in bib section 1
-[159] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[159] Biber.pm:836> INFO - Found 6 citekeys in bib section 2
-[159] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[160] Biber.pm:836> INFO - Found 7 citekeys in bib section 3
-[160] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[160] Biber.pm:836> INFO - Found 9 citekeys in bib section 4
-[160] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[160] Biber.pm:836> INFO - Found 4 citekeys in bib section 5
-[160] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[161] Biber.pm:836> INFO - Found 6 citekeys in bib section 6
-[161] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
-[249] Biber.pm:3671> INFO - Processing section 1
-[267] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 1
-[271] bibtex.pm:1424> INFO - Decoding LaTeX character macros into UTF-8
-[282] bibtex.pm:1281> INFO - Found BibTeX data source 'bibliografia-No1.bib'
-[339] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[340] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[340] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
-[346] Biber.pm:3671> INFO - Processing section 2
-[346] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 2
-[383] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[383] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[383] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
-[393] Biber.pm:3671> INFO - Processing section 3
-[393] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 3
-[429] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[429] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[429] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
-[440] Biber.pm:3671> INFO - Processing section 4
-[440] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 4
-[485] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[485] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[485] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
-[499] Biber.pm:3671> INFO - Processing section 5
-[500] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 5
-[529] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[529] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[529] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
-[536] Biber.pm:3671> INFO - Processing section 6
-[536] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 6
-[541] Utils.pm:164> WARN - ISBN '0210-1602' in entry 'Bertinetto2012' is invalid - run biber with '--validate_datamodel' for details.
-[567] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[567] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
-[567] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
-[576] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[584] bbl.pm:712> INFO - Output to main.bbl
-[584] Biber.pm:110> INFO - WARNINGS: 1
+[1] Config.pm:354> INFO - This is Biber 2.7 (beta)
+[1] Config.pm:357> INFO - Logfile is 'main.blg'
+[44] biber:303> INFO - === vie may  4, 2018, 23:15:58
+[62] Biber.pm:360> INFO - Reading 'main.bcf'
+[197] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[198] Biber.pm:836> INFO - Found 5 citekeys in bib section 1
+[198] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[198] Biber.pm:836> INFO - Found 6 citekeys in bib section 2
+[198] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[199] Biber.pm:836> INFO - Found 7 citekeys in bib section 3
+[199] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[199] Biber.pm:836> INFO - Found 9 citekeys in bib section 4
+[199] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[199] Biber.pm:836> INFO - Found 4 citekeys in bib section 5
+[200] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[200] Biber.pm:836> INFO - Found 6 citekeys in bib section 6
+[200] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[200] Biber.pm:836> INFO - Found 11 citekeys in bib section 7
+[200] Biber.pm:836> INFO - Found 0 citekeys in bib section 0
+[302] Biber.pm:3671> INFO - Processing section 1
+[319] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 1
+[322] bibtex.pm:1424> INFO - Decoding LaTeX character macros into UTF-8
+[334] bibtex.pm:1281> INFO - Found BibTeX data source 'bibliografia-No1.bib'
+[389] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[389] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[389] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[395] Biber.pm:3671> INFO - Processing section 2
+[395] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 2
+[430] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[430] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[430] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[437] Biber.pm:3671> INFO - Processing section 3
+[438] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 3
+[472] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[472] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[472] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[481] Biber.pm:3671> INFO - Processing section 4
+[481] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 4
+[523] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[523] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[523] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[534] Biber.pm:3671> INFO - Processing section 5
+[535] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 5
+[561] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[562] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[562] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[567] Biber.pm:3671> INFO - Processing section 6
+[567] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 6
+[597] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[597] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[597] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[605] Biber.pm:3671> INFO - Processing section 7
+[605] Biber.pm:3841> INFO - Looking for bibtex format file 'bibliografia-No1.bib' for section 7
+[647] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[647] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[647] Biber.pm:3500> INFO - Sorting list 'apa/global/' of type 'entry' with scheme 'apa' and locale 'es-ES'
+[663] bbl.pm:608> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[673] bbl.pm:712> INFO - Output to main.bbl
