@@ -9,7 +9,7 @@
 \contentsline {chapter}{\numberline {3}\textbf {Relativismo y esencialismo, ?`por qué aceptamos una ontología?}}{11}{chapter.3}
 \defcounter {refsection}{2}\relax 
 \contentsline {chapter}{\numberline {4}\textbf {?`Es la ley necesariamente vaga?}}{17}{chapter.4}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{3}\relax 
 \contentsline {chapter}{\numberline {5}\textbf {Una solución a la paradoja de la reforma de los mecanismos de reforma de las normas constitucionales}}{23}{chapter.5}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {6}\textbf {La riqueza de la experiencia artística: crítica al proyecto fisicalista}}{31}{chapter.6}

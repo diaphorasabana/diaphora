@@ -402,5 +402,225 @@
     \endentry
   \endsortlist
 \endrefsection
+
+\refsection{3}
+  \sortlist[entry]{apa/global/}
+    \entry{Bulygin1991}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b735fe7cee3a26ee360e91c6c67c76f2}{%
+           family={Bulygin},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f7422965686404ae3a821df86713c405}{%
+           family={Alchourron},
+           familyi={A\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b735fe7cee3a26ee360e91c6c67c76f2}{%
+           family={Bulygin},
+           familyi={B\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Centro de Estudios Constitucionales}%
+      }
+      \strng{namehash}{b735fe7cee3a26ee360e91c6c67c76f2}
+      \strng{fullhash}{b735fe7cee3a26ee360e91c6c67c76f2}
+      \strng{authornamehash}{b735fe7cee3a26ee360e91c6c67c76f2}
+      \strng{authorfullhash}{b735fe7cee3a26ee360e91c6c67c76f2}
+      \strng{editornamehash}{0ba47d7eb36dac5330ea9c3f94a128a0}
+      \strng{editorfullhash}{0ba47d7eb36dac5330ea9c3f94a128a0}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Análisis lógico y Derecho}
+      \field{title}{Tiempo y Derecho}
+      \field{year}{1991}
+      \field{pages}{193\bibrangedash 214}
+      \range{pages}{22}
+    \endentry
+    \entry{Kelsen1995}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ed9ddf7ced7fa11414196f21134180cf}{%
+           family={Kelsen},
+           familyi={K\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México, D.F.}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Nacional Autónoma de México}%
+      }
+      \strng{namehash}{ed9ddf7ced7fa11414196f21134180cf}
+      \strng{fullhash}{ed9ddf7ced7fa11414196f21134180cf}
+      \strng{authornamehash}{ed9ddf7ced7fa11414196f21134180cf}
+      \strng{authorfullhash}{ed9ddf7ced7fa11414196f21134180cf}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2da ed.}
+      \field{title}{Teoría general del derecho y del Estado}
+      \field{year}{1995}
+    \endentry
+    \entry{Kelsen2005}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ed9ddf7ced7fa11414196f21134180cf}{%
+           family={Kelsen},
+           familyi={K\bibinitperiod},
+           given={Hans},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México, D.F.}%
+      }
+      \list{publisher}{1}{%
+        {Porrúa}%
+      }
+      \strng{namehash}{ed9ddf7ced7fa11414196f21134180cf}
+      \strng{fullhash}{ed9ddf7ced7fa11414196f21134180cf}
+      \strng{authornamehash}{ed9ddf7ced7fa11414196f21134180cf}
+      \strng{authorfullhash}{ed9ddf7ced7fa11414196f21134180cf}
+      \field{sortinit}{K}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{14a ed.}
+      \field{title}{Teoría Pura Del Derecho}
+      \field{year}{2005}
+    \endentry
+    \entry{MelinPactet2011}{book}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=9320b11e71e79821545ee57c24a82104}{%
+           family={Melin-Soucramanien},
+           familyi={M\bibinithyphendelim S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{uniquename=0,hash=2373fb990c0a15ba2fd6e20f5f45359f}{%
+           family={Pactet},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bogotá}%
+      }
+      \list{publisher}{1}{%
+        {Legis}%
+      }
+      \strng{namehash}{77fe379f00231aa1cb98432ea4abfd31}
+      \strng{fullhash}{77fe379f00231aa1cb98432ea4abfd31}
+      \strng{authornamehash}{77fe379f00231aa1cb98432ea4abfd31}
+      \strng{authorfullhash}{77fe379f00231aa1cb98432ea4abfd31}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Derecho Constitucional}
+      \field{year}{2011}
+    \endentry
+    \entry{Nino2017}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=3a61d5fdc003cc9027aa200941068ae1}{%
+           family={Nino},
+           familyi={N\bibinitperiod},
+           given={Carlos\bibnamedelima S},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Argentina}%
+      }
+      \list{publisher}{1}{%
+        {Astrea}%
+      }
+      \strng{namehash}{3a61d5fdc003cc9027aa200941068ae1}
+      \strng{fullhash}{3a61d5fdc003cc9027aa200941068ae1}
+      \strng{authornamehash}{3a61d5fdc003cc9027aa200941068ae1}
+      \strng{authorfullhash}{3a61d5fdc003cc9027aa200941068ae1}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{La validez del Derecho}
+      \field{howpublished}{\url{https://www.astreavirtual.com.ar/panel.php?b=0428000}}
+      \field{title}{?`Puede un sistema jurı́dico generar su propia validez?}
+      \field{year}{2017}
+      \field{pages}{69\bibrangedash 88}
+      \range{pages}{20}
+    \endentry
+    \entry{Ross1991}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=03760208a29959b39762b37626e69099}{%
+           family={Ross},
+           familyi={R\bibinitperiod},
+           given={Alf},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México, D.F.}%
+      }
+      \list{publisher}{1}{%
+        {Distribuciones Fontamara}%
+      }
+      \strng{namehash}{03760208a29959b39762b37626e69099}
+      \strng{fullhash}{03760208a29959b39762b37626e69099}
+      \strng{authornamehash}{03760208a29959b39762b37626e69099}
+      \strng{authorfullhash}{03760208a29959b39762b37626e69099}
+      \field{sortinit}{R}
+      \field{sortinithash}{c15bc8eb6936bc6b3c8baa9e8575af53}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{El concepto de validez y otros ensayos}
+      \field{title}{Sobre la auto-referencia y un dificil problema de derecho constitucional}
+      \field{year}{1991}
+      \field{pages}{43\bibrangedash 72}
+      \range{pages}{30}
+    \endentry
+    \entry{Suber1990}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=426bafcbb4812735e1749fecef8de4de}{%
+           family={Suber},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang Publishing}%
+      }
+      \strng{namehash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{fullhash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{authornamehash}{426bafcbb4812735e1749fecef8de4de}
+      \strng{authorfullhash}{426bafcbb4812735e1749fecef8de4de}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Paradox of Self-Amendment: a study of law, logic, omnipotence, and change}
+      \field{year}{1990}
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 
