@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  4 MAY 2018 23:58
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2018.4.1)  5 MAY 2018 09:47
  restricted system commands enabled.
  file:line:error style messages enabled.
 **\input main.tex
@@ -21,7 +21,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.128 seconds
+luaotfload | main : initialization completed in 0.142 seconds
 (./main.tex (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
@@ -1542,11 +1542,11 @@ Underfull \vbox (badness 1173) has occurred while \output is active []
 
  [51]
 [52] [53] [54] [55]
-Package biblatex Info: Reference section=0 on input line 2773.
+Package biblatex Info: Reference section=0 on input line 2772.
 \blx@maxsegment@8=\count461
 \blx@sectionciteorder@8=\count462
-Package biblatex Info: Reference section=8 on input line 2778.
-Package biblatex Info: Setting label 'refsection:8' on input line 2778.
+Package biblatex Info: Reference section=8 on input line 2777.
+Package biblatex Info: Setting label 'refsection:8' on input line 2777.
  [56]
 Capítulo 10.
 [57
@@ -1559,10 +1559,10 @@ Underfull \vbox (badness 4886) has occurred while \output is active []
 Underfull \vbox (badness 1448) has occurred while \output is active []
 
  [64]
-./main.tex:3326: Misplaced alignment tab character &.
+./main.tex:3325: Misplaced alignment tab character &.
 <argument> Brace &
         World
-l.3326 ...ading=subbibliography,title={Referencias}]
+l.3325 ...ading=subbibliography,title={Referencias}]
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -1571,14 +1571,14 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-Package biblatex Info: Reference section=0 on input line 3328.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3331.
+Package biblatex Info: Reference section=0 on input line 3327.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3330.
 [65]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3331.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3330.
  (./main.aux
 Language spanish already loaded; id is 4)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3331.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3331.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3330.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3330.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4D961C27F39F2D01244156CBEB9B592C;3690.
 
@@ -1595,14 +1595,14 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 ### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 28570 strings out of 494472
+ 28566 strings out of 494472
  100000,1144653 words of node,token memory allocated
  1065 words of node memory still in use:
    7 hlist, 2 vlist, 3 rule, 38 glue, 1 kern, 46 attribute, 84 glue_spec, 46 att
 ribute_list, 1 write, 3 pdf_action nodes
-   avail lists: 1:4,2:839,3:150,4:105,5:540,6:6346,7:1195,8:119,9:246,10:49,11:1
+   avail lists: 1:4,2:839,3:150,4:104,5:540,6:6346,7:1195,8:119,9:246,10:49,11:1
 043
- 31718 multiletter control sequences out of 65536+600000
+ 31715 multiletter control sequences out of 65536+600000
  75 fonts using 16244719 bytes
  41i,12n,68p,821b,17223s stack positions out of 5000i,500n,10000p,200000b,100000s
 <./fonts/Cormorant-italic.ttf><./fonts/Cormorant-bold.ttf><./fonts/Cormorant-Reg
@@ -1612,10 +1612,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (65 pages, 456109 bytes).
+Output written on main.pdf (65 pages, 455779 bytes).
 
-PDF statistics: 597 PDF objects out of 1000 (max. 8388607)
- 506 compressed objects within 6 object streams
- 199 named destinations out of 1000 (max. 131072)
+PDF statistics: 596 PDF objects out of 1000 (max. 8388607)
+ 505 compressed objects within 6 object streams
+ 198 named destinations out of 1000 (max. 131072)
  81 words of extra memory for PDF output out of 10000 (max. 100000000)
 

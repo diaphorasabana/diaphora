@@ -2401,17 +2401,16 @@
     <bcf:datasource type="file" datatype="bibtex">bibliografia-No1.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="7">
-    <bcf:citekey order="1">Dummett1993a</bcf:citekey>
-    <bcf:citekey order="2">Dummett1993b</bcf:citekey>
-    <bcf:citekey order="3">Frege1998</bcf:citekey>
-    <bcf:citekey order="4">Grice1989</bcf:citekey>
-    <bcf:citekey order="5">Lycan1999</bcf:citekey>
-    <bcf:citekey order="6">Pitt2017</bcf:citekey>
-    <bcf:citekey order="7">Tomasello2003</bcf:citekey>
-    <bcf:citekey order="8">Travis2006</bcf:citekey>
-    <bcf:citekey order="9">Travis2011</bcf:citekey>
-    <bcf:citekey order="10">Wayne2014</bcf:citekey>
-    <bcf:citekey order="11">Wittgenstein2008</bcf:citekey>
+    <bcf:citekey order="1">Dummett1993</bcf:citekey>
+    <bcf:citekey order="2">Frege1998</bcf:citekey>
+    <bcf:citekey order="3">Grice1989</bcf:citekey>
+    <bcf:citekey order="4">Lycan1999</bcf:citekey>
+    <bcf:citekey order="5">Pitt2017</bcf:citekey>
+    <bcf:citekey order="6">Tomasello2003</bcf:citekey>
+    <bcf:citekey order="7">Travis2006</bcf:citekey>
+    <bcf:citekey order="8">Travis2011</bcf:citekey>
+    <bcf:citekey order="9">Wayne2014</bcf:citekey>
+    <bcf:citekey order="10">Wittgenstein2008</bcf:citekey>
   </bcf:section>
   <!-- SECTION 0 (cont.) -->
   <bcf:section number="0">
