@@ -1628,5 +1628,447 @@
     \endentry
   \endsortlist
 \endrefsection
+
+\refsection{8}
+  \sortlist[entry]{apa/global/}
+    \entry{Beckermann1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ea0200a5150e79d6f311a73503cc99f9}{%
+           family={Beckermann},
+           familyi={B\bibinitperiod},
+           given={Ansgar},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ea0200a5150e79d6f311a73503cc99f9}
+      \strng{fullhash}{ea0200a5150e79d6f311a73503cc99f9}
+      \strng{authornamehash}{ea0200a5150e79d6f311a73503cc99f9}
+      \strng{authorfullhash}{ea0200a5150e79d6f311a73503cc99f9}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Emergence or reduction?: Essays on the prospects of nonreductive physicalism}
+      \field{title}{Introduction - Reductive and Nonreductive Physicalism}
+      \field{year}{1992}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+    \endentry
+    \entry{Broad1925}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=ea1f909db7205e819c02325b812ee3a6}{%
+           family={Broad},
+           familyi={B\bibinitperiod},
+           given={C.\bibnamedelimi D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge and Kegan Paul}%
+      }
+      \strng{namehash}{ea1f909db7205e819c02325b812ee3a6}
+      \strng{fullhash}{ea1f909db7205e819c02325b812ee3a6}
+      \strng{authornamehash}{ea1f909db7205e819c02325b812ee3a6}
+      \strng{authorfullhash}{ea1f909db7205e819c02325b812ee3a6}
+      \field{sortinit}{B}
+      \field{sortinithash}{5f6fa000f686ee5b41be67ba6ff7962d}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{IX}
+      \field{title}{The Mind and its Place in Nature}
+      \field{volume}{VIII}
+      \field{year}{1925}
+    \endentry
+    \entry{Churchland1985}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b288c763d22cd80bc279cb842f0a6702}{%
+           family={Churchland},
+           familyi={C\bibinitperiod},
+           given={Paul\bibnamedelima M.},
+           giveni={P\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Journal of Philosophy Inc}%
+      }
+      \strng{namehash}{b288c763d22cd80bc279cb842f0a6702}
+      \strng{fullhash}{b288c763d22cd80bc279cb842f0a6702}
+      \strng{authornamehash}{b288c763d22cd80bc279cb842f0a6702}
+      \strng{authorfullhash}{b288c763d22cd80bc279cb842f0a6702}
+      \field{sortinit}{C}
+      \field{sortinithash}{095692fd22cc3c74d7fe223d02314dbd}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Philosophy}
+      \field{number}{1}
+      \field{title}{Reduction, Qualia and the Direct Introspection of Brain States}
+      \field{volume}{82}
+      \field{year}{1985}
+      \field{pages}{8\bibrangedash 28}
+      \range{pages}{21}
+    \endentry
+    \entry{Hendry2012}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=23eef65c13ff9faccc916405cccab60f}{%
+           family={Hendry},
+           familyi={H\bibinitperiod},
+           given={Robin\bibnamedelima Findlay},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \strng{namehash}{23eef65c13ff9faccc916405cccab60f}
+      \strng{fullhash}{23eef65c13ff9faccc916405cccab60f}
+      \strng{authornamehash}{23eef65c13ff9faccc916405cccab60f}
+      \strng{authorfullhash}{23eef65c13ff9faccc916405cccab60f}
+      \field{sortinit}{H}
+      \field{sortinithash}{2f664b453ec75da1fe3804ca92633405}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy of chemistry}
+      \field{title}{Reduction, emergence and physicalism}
+      \field{year}{2012}
+      \field{pages}{367\bibrangedash 386}
+      \range{pages}{20}
+    \endentry
+    \entry{Lombardi2013}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d24fd25e2c625ad2991ad284cd62ebc6}{%
+           family={Lombardi},
+           familyi={L\bibinitperiod},
+           given={Olimpia},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Universidad El Bosque}%
+      }
+      \strng{namehash}{d24fd25e2c625ad2991ad284cd62ebc6}
+      \strng{fullhash}{d24fd25e2c625ad2991ad284cd62ebc6}
+      \strng{authornamehash}{d24fd25e2c625ad2991ad284cd62ebc6}
+      \strng{authorfullhash}{d24fd25e2c625ad2991ad284cd62ebc6}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Colombiana de Filosofía de la Ciencia}
+      \field{number}{26}
+      \field{title}{?` Acerca de qué nos habla la química? Nuevos argumentos en favor de la autonomía ontológica del mundo químico}
+      \field{volume}{13}
+      \field{year}{2013}
+      \field{pages}{105\bibrangedash 144}
+      \range{pages}{40}
+    \endentry
+    \entry{LombardiLabarca2005}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=d24fd25e2c625ad2991ad284cd62ebc6}{%
+           family={Lombardi},
+           familyi={L\bibinitperiod},
+           given={Olimpia},
+           giveni={O\bibinitperiod}}}%
+        {{uniquename=0,hash=318ab61aac2b07f9e18999c093003d68}{%
+           family={Labarca},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{2aaa0cb324cad1878c1c60cfcd89886d}
+      \strng{fullhash}{2aaa0cb324cad1878c1c60cfcd89886d}
+      \strng{authornamehash}{2aaa0cb324cad1878c1c60cfcd89886d}
+      \strng{authorfullhash}{2aaa0cb324cad1878c1c60cfcd89886d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7bba64db83423e3c29ad597f3b682cf3}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foundations of Chemistry}
+      \field{number}{2}
+      \field{title}{The Ontological Autonomy of the Chemical World}
+      \field{volume}{7}
+      \field{year}{2005}
+      \field{pages}{125\bibrangedash 148}
+      \range{pages}{24}
+    \endentry
+    \entry{McIntyre2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=32260db1958c252982766ce6ad18696f}{%
+           family={McIntyre},
+           familyi={M\bibinitperiod},
+           given={Lee},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{32260db1958c252982766ce6ad18696f}
+      \strng{fullhash}{32260db1958c252982766ce6ad18696f}
+      \strng{authornamehash}{32260db1958c252982766ce6ad18696f}
+      \strng{authorfullhash}{32260db1958c252982766ce6ad18696f}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Synthese}
+      \field{number}{3}
+      \field{title}{Emergence and Reduction in Chemistry: Ontological or Epistemological Concepts?}
+      \field{volume}{155}
+      \field{year}{2007}
+      \field{pages}{337\bibrangedash 343}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s11229-006-9111-3
+      \endverb
+    \endentry
+    \entry{Morales2014}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=c7468417f0d8ac5b7544f8910f619129}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=7032fd093d4458c360357e9a23c2fcd1}{%
+           family={Meléndez},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=975960ac666c86b65be87add4c56e120}{%
+           family={Pinzón},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi A.},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=7612b01f9e0ea69483a64c89d8d3df2d}{%
+           family={Murillo},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c7468417f0d8ac5b7544f8910f619129}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bogotá}%
+      }
+      \list{publisher}{1}{%
+        {Universidad Nacional}%
+      }
+      \strng{namehash}{c7468417f0d8ac5b7544f8910f619129}
+      \strng{fullhash}{c7468417f0d8ac5b7544f8910f619129}
+      \strng{authornamehash}{c7468417f0d8ac5b7544f8910f619129}
+      \strng{authorfullhash}{c7468417f0d8ac5b7544f8910f619129}
+      \strng{editornamehash}{26728920fa17a0043eb80d68986a1d9a}
+      \strng{editorfullhash}{485261376b34dc25d7419a0b64d86217}
+      \field{sortinit}{M}
+      \field{sortinithash}{c26a05ef03e4429073ed5c825140fac3}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Imágenes de la mente en el mundo natural}
+      \field{title}{Kim y el problema de la causalidad descendente}
+      \field{year}{2014}
+      \field{pages}{81\bibrangedash 106}
+      \range{pages}{26}
+    \endentry
+    \entry{Nagel1961}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6f200179d755172311a264f0109891da}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Harcourt}%
+      }
+      \list{publisher}{1}{%
+        {Brace & World}%
+      }
+      \strng{namehash}{6f200179d755172311a264f0109891da}
+      \strng{fullhash}{6f200179d755172311a264f0109891da}
+      \strng{authornamehash}{6f200179d755172311a264f0109891da}
+      \strng{authorfullhash}{6f200179d755172311a264f0109891da}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Structure of Science: Problems in the Logic of Scientific Explanation}
+      \field{year}{1961}
+    \endentry
+    \entry{Nagel1970}{inbook}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=6f200179d755172311a264f0109891da}{%
+           family={Nagel},
+           familyi={N\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=4db1b30cc73a77d637f22fff4af77d21}{%
+           family={Kiefer},
+           familyi={K\bibinitperiod},
+           given={H.\bibnamedelimi E.},
+           giveni={H\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3bbe1e690ae21c05db7cf4ed3ccc8856}{%
+           family={Munitz},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Albany, NY}%
+      }
+      \list{publisher}{1}{%
+        {SUNY Press}%
+      }
+      \strng{namehash}{6f200179d755172311a264f0109891da}
+      \strng{fullhash}{6f200179d755172311a264f0109891da}
+      \strng{authornamehash}{6f200179d755172311a264f0109891da}
+      \strng{authorfullhash}{6f200179d755172311a264f0109891da}
+      \strng{editornamehash}{21a06aabdb21b625aa32452d0d47e765}
+      \strng{editorfullhash}{21a06aabdb21b625aa32452d0d47e765}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Mind, science, and history}
+      \field{title}{Issues in the logic of reductive explanations}
+      \field{year}{1970}
+      \field{pages}{117\bibrangedash 137}
+      \range{pages}{21}
+    \endentry
+    \entry{Needham2006}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=fcc627114c60c8fc33325f09d98150af}{%
+           family={Needham},
+           familyi={N\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{fcc627114c60c8fc33325f09d98150af}
+      \strng{fullhash}{fcc627114c60c8fc33325f09d98150af}
+      \strng{authornamehash}{fcc627114c60c8fc33325f09d98150af}
+      \strng{authorfullhash}{fcc627114c60c8fc33325f09d98150af}
+      \field{sortinit}{N}
+      \field{sortinithash}{1163c28585427c673ad5a010cbf82f52}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Foundations of Chemistry}
+      \field{number}{1}
+      \field{title}{Ontological Reduction: A Comment on Lombardi and Labarca}
+      \field{volume}{8}
+      \field{year}{2006}
+      \field{pages}{73\bibrangedash 80}
+      \range{pages}{8}
+    \endentry
+    \entry{Scerri1994}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=16273c1d5f36c1e7f37d1b9227b96b0a}{%
+           family={Scerri},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \strng{fullhash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \strng{authornamehash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \strng{authorfullhash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association}
+      \field{title}{Has Chemistry Been at Least Approximately Reduced to Quantum Mechanics?}
+      \field{volume}{1994}
+      \field{year}{1994}
+      \field{pages}{160\bibrangedash 170}
+      \range{pages}{11}
+    \endentry
+    \entry{Scerri2007}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=16273c1d5f36c1e7f37d1b9227b96b0a}{%
+           family={Scerri},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University of Chicago Press}%
+      }
+      \strng{namehash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \strng{fullhash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \strng{authornamehash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \strng{authorfullhash}{16273c1d5f36c1e7f37d1b9227b96b0a}
+      \field{sortinit}{S}
+      \field{sortinithash}{3c1547c63380458f8ca90e40ed14b83e}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy of Science}
+      \field{number}{5}
+      \field{title}{Reduction and Emergence in Chemistry---Two Recent Approaches}
+      \field{volume}{74}
+      \field{year}{2007}
+      \field{pages}{920\bibrangedash 931}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1086/525633
+      \endverb
+    \endentry
+    \entry{vanRiel2011}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=d54fac7bc87839c84414246dd3ea8a14}{%
+           family={Riel},
+           familyi={R\bibinitperiod},
+           given={Raphael},
+           giveni={R\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+      }
+      \strng{namehash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{fullhash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{authornamehash}{d54fac7bc87839c84414246dd3ea8a14}
+      \strng{authorfullhash}{d54fac7bc87839c84414246dd3ea8a14}
+      \field{sortinit}{v}
+      \field{sortinithash}{555737dafdcf1396ebfeae5822e5bde2}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Philosophy of Science}
+      \field{number}{3}
+      \field{title}{Nagelian Reduction Beyond the Nagel Model}
+      \field{volume}{78}
+      \field{year}{2011}
+      \field{pages}{353\bibrangedash 375}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1086/660300
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
 \endinput
 

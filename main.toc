@@ -19,5 +19,5 @@
 \contentsline {chapter}{\numberline {8}\textbf {Sobre el estatus ontológico de la improvisación musical}}{43}{chapter.8}
 \defcounter {refsection}{7}\relax 
 \contentsline {chapter}{\numberline {9}\textbf {Tengo en mente lo que usted tiene en mente: ?`Significado o Representación?}}{49}{chapter.9}
-\defcounter {refsection}{0}\relax 
+\defcounter {refsection}{8}\relax 
 \contentsline {chapter}{\numberline {10}\textbf {Emergencia, reduccionismo y causalidad descendente: ?`podemos pensar cómo funciona la ciencia?}}{57}{chapter.10}
